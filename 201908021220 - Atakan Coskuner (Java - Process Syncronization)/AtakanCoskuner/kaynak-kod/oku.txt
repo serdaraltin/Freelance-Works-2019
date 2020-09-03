@@ -1,0 +1,7 @@
+ Main.java asil dosyadir
+ Main2.java alternatif bir cozum olarak sunulmustur
+ Netbeans ile gelistirilmis java dili ile yazilmistir.
+
+ java destekleyen herhangi bir ide uzerinde calistirilabilir.
+
+ Eclipse,Netbeans,Visual Studio Code, Java Idea gibi ideler onerilir.

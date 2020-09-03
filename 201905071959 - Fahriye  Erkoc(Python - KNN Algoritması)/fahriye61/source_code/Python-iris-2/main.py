@@ -1,0 +1,41 @@
+# -*- coding: cp1254 -*-
+# csv dosyalarýný okumak için
+import pandas as pd
+import numpy as np
+# csv dosyamýzý okuduk.
+data = pd.read_csv('iris.csv')
+
+# Baðýmlý Deðiþkeni ( species) bir deðiþkene atadýk
+species = data.iloc[:,-1:].values
+
+# Veri kümemizi test ve train þekinde bölüyoruz
+from sklearn.cross_validation import train_test_split
+x_train, x_test, y_train, y_test = train_test_split(data.iloc[:,1:-1],species,test_size=0.33,random_state=0)
+
+
+# KNeighborsClassifier sýnýfýný import ettik
+from sklearn.neighbors import KNeighborsClassifier
+
+# KNeighborsClassifier sýnýfýndan bir nesne ürettik
+# n_neighbors : K deðeridir. Bakýlacak eleman sayýsýdýr. Default deðeri 5'tir.
+# metric : Deðerler arasýnda uzaklýk hesaplama formülüdür.
+# p : Alternatif olarak p parametreside verilir. p deðerini 2 vererek uzaklýk hesaplama formülünü
+# minkowski yerine öklid olarak deðiþtirebilirsiniz.
+knn = KNeighborsClassifier(n_neighbors=5,metric='minkowski')
+
+# Makineyi eðitiyoruz
+knn.fit(x_train,y_train.ravel())
+
+# Test veri kümemizi verdik ve iris türü tahmin etmesini saðladýk
+result = knn.predict(x_test)
+
+# Karmaþýklýk matrisi
+from sklearn.metrics import confusion_matrix
+cm = confusion_matrix(y_test,result)
+print(cm)
+
+# Baþarý Oraný
+from sklearn.metrics import accuracy_score
+accuracy = accuracy_score(y_test, result)
+# Sonuç 
+print(accuracy)

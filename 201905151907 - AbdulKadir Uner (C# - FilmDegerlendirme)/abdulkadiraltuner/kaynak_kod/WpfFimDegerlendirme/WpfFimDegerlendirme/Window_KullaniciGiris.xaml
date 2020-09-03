@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfFimDegerlendirme.Window_KullaniciGiris"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfFimDegerlendirme"
+        mc:Ignorable="d"
+        Title="Kullanıcı Giriş" Height="300" Width="300" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Label x:Name="label" Content="Kullanını Adı" HorizontalAlignment="Left" Margin="19,74,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtKullaniciAdi" HorizontalAlignment="Left" Height="23" Margin="100,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173" TabIndex="0"/>
+        <Label x:Name="label_Copy" Content="Şifre" HorizontalAlignment="Left" Margin="19,107,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnGirisYap" Content="Giriş Yap" HorizontalAlignment="Left" Height="33" Margin="153,150,0,0" VerticalAlignment="Top" Width="120" Click="btnGirisYap_Click" TabIndex="2"/>
+        <PasswordBox x:Name="pwSifre" HorizontalAlignment="Left" Margin="100,107,0,0" VerticalAlignment="Top" Width="173" Height="26" TabIndex="1"/>
+
+    </Grid>
+</Window>

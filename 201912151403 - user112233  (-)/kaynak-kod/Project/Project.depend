@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\cb97o\onedrive\masaüstü\project\main.cpp
+	<iostream>
+
+1576400497 source:c:\users\cb97o\onedrive\masaüstü\project\block.cpp
+	"Block.h"
+	"rlutil.h"
+	<iostream>
+
+1576400424 c:\users\cb97o\onedrive\masaüstü\project\block.h
+
+1576401210 c:\users\cb97o\onedrive\masaüstü\project\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1576400603 source:c:\users\cb97o\onedrive\masaüstü\project\car.cpp
+	"Car.h"
+	"rlutil.h"
+	<iostream>
+
+1576400572 c:\users\cb97o\onedrive\masaüstü\project\car.h
+
+1576400907 source:c:\users\cb97o\onedrive\masaüstü\project\highway.cpp
+	"Highway.h"
+	"RoadLine.h"
+	"rlutil.h"
+	<iostream>
+
+1576400876 c:\users\cb97o\onedrive\masaüstü\project\highway.h
+
+1576401013 c:\users\cb97o\onedrive\masaüstü\project\roadline.h
+
+1576401052 source:c:\users\cb97o\onedrive\masaüstü\project\roadline.cpp
+	"RoadLine.h"
+	"rlutil.h"
+	<iostream>
+

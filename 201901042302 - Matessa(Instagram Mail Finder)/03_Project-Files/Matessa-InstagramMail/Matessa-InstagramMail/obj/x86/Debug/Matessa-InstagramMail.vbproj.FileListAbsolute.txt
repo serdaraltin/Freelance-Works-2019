@@ -1,0 +1,12 @@
+F:\00_Documents\00_Programming\03_Trading\201901042302-Matessa\03_Project-Files\Matessa-InstagramMail\Matessa-InstagramMail\bin\Debug\Matessa-InstagramMail.exe
+F:\00_Documents\00_Programming\03_Trading\201901042302-Matessa\03_Project-Files\Matessa-InstagramMail\Matessa-InstagramMail\bin\Debug\Matessa-InstagramMail.pdb
+F:\00_Documents\00_Programming\03_Trading\201901042302-Matessa\03_Project-Files\Matessa-InstagramMail\Matessa-InstagramMail\bin\Debug\Matessa-InstagramMail.xml
+F:\00_Documents\00_Programming\03_Trading\201901042302-Matessa\03_Project-Files\Matessa-InstagramMail\Matessa-InstagramMail\obj\x86\Debug\Matessa_InstagramMail.Form1.resources
+F:\00_Documents\00_Programming\03_Trading\201901042302-Matessa\03_Project-Files\Matessa-InstagramMail\Matessa-InstagramMail\obj\x86\Debug\Matessa_InstagramMail.Resources.resources
+F:\00_Documents\00_Programming\03_Trading\201901042302-Matessa\03_Project-Files\Matessa-InstagramMail\Matessa-InstagramMail\obj\x86\Debug\Matessa-InstagramMail.vbproj.GenerateResource.Cache
+F:\00_Documents\00_Programming\03_Trading\201901042302-Matessa\03_Project-Files\Matessa-InstagramMail\Matessa-InstagramMail\obj\x86\Debug\Matessa-InstagramMail.exe
+F:\00_Documents\00_Programming\03_Trading\201901042302-Matessa\03_Project-Files\Matessa-InstagramMail\Matessa-InstagramMail\obj\x86\Debug\Matessa-InstagramMail.xml
+F:\00_Documents\00_Programming\03_Trading\201901042302-Matessa\03_Project-Files\Matessa-InstagramMail\Matessa-InstagramMail\obj\x86\Debug\Matessa-InstagramMail.pdb
+F:\00_Documents\00_Programming\03_Trading\201901042302-Matessa\03_Project-Files\Matessa-InstagramMail\Matessa-InstagramMail\bin\Debug\Matessa-InstagramMail.exe.config
+F:\00_Documents\00_Programming\03_Trading\201901042302-Matessa\03_Project-Files\Matessa-InstagramMail\Matessa-InstagramMail\bin\Debug\WebKitBrowser.dll
+F:\00_Documents\00_Programming\03_Trading\201901042302-Matessa\03_Project-Files\Matessa-InstagramMail\Matessa-InstagramMail\bin\Debug\WebKit.Interop.dll

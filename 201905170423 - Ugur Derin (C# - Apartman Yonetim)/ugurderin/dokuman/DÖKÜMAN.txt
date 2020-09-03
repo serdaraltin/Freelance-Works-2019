@@ -1,0 +1,19 @@
+.NET MVC (SÝTE)APARTMAN YÖNETÝM SÝSTEMÝ
+
+MSSQL veri tabaný olarak kullanýlacak olabilirse katmanlý mimarý kullanýbilecek
+Kod Standtardlara uygun olarak yazýlacak(isimlendirmeler vs )ve Kodlar yorumlarla açýklamalarla belirtilecek 
+Kullanýlacak Programlar : MVC MS SQL	
+Veritabaný TABLO vs kayýtlarýn hepsi büyük harfle oluþturulacak ve türkçe karakter kullanýlmayacak.
+
+
+1) Aidat Takibi	
+2)	Kiþi Daire Kayýtlarý 
+3)	Eposta Sms Gönderimi
+4)	Ýþ Takibi	
+5)	Raporlama (GÝDER ÖDEME VS)
+
+
+gönderdiðin diyagrama ek olarak bir kaç ilave etmemiz gerekiyor
+daire sakini kiracý veya evsahibimi bunu belirtmem gerekiyor.Kayýt olurken olur yakýt gideri depozito gideri tarzý ilaveler
+eklenmesinde sakýnca varmý son olarak apartmanlar bir siteye baðlý olsun sitede bir kiþiye bir þirkete sahýþa baðlý olabilirmi örneðin Ahmet kiþisi yada emlakçýnýn baktýgý sorumlu oldugu siteler ABC sitesi ABC sitesinde N tane(1,2,3) tane apartman olabilir yani 3 apartman bir siteye baðlý bir sitede ahmete baðlý gibi olsun. gibi .
+

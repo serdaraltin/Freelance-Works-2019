@@ -1,0 +1,12 @@
+python ->
+
+pip install -U scikit-learn
+pip install sklearn
+pip install seaborn
+
+Eksik paket olma durumunda
+pip install [paket adi]
+
+<- python
+
+

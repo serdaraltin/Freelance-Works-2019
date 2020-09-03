@@ -1,0 +1,200 @@
+service: adventureWorksProductReview
+
+provider:
+  name: aws
+#  stage: dev
+  runtime: nodejs8.10
+  region: ${file(serverlessConfig.json):region}
+  memorySize: 192
+  timeout: 30
+  environment:
+    region: ${file(serverlessConfig.json):region}
+    reviewCheckWorkerEndpoint: !Ref reviewQueue
+    emailWorkerEndpoint: !Ref emailQueue
+    dbClient: mysql
+    dbHost: ${file(serverlessConfig.json):rds_endpoint}
+    dbUser: foo
+    dbPassword: foobarbaz
+    dbDatabase: adventureworks
+
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+          - lambda:*
+      Resource: "*"
+    - Effect: Allow
+      Action:
+          - sqs:*
+      Resource: "*"
+    - Effect: Allow
+      Action:
+          - rds:*
+      Resource: "*"
+    - Effect: Allow
+      Action:
+          - vpc:*
+      Resource: "*"
+    - Effect: "Allow"
+      Action:
+        - "ec2:CreateNetworkInterface"
+        - "ec2:DescribeNetworkInterfaces"
+        - "ec2:DeleteNetworkInterface"
+        - "logs:CreateLogGroup"
+        - "logs:CreateLogStream"
+        - "logs:PutLogEvents"
+      Resource: "*"
+
+
+layers:
+  reviewapilayer:
+    path: layer
+    compatibleRuntimes:
+      - nodejs8.10
+    allowedAccounts:
+      - '*'
+
+
+functions:
+
+  reviewAuthorizer:
+    handler: reviewServices/reviewAuthorizer.handler
+    name: reviewAuthorizer
+
+  reviewService:
+    handler: reviewServices/reviewService.handler
+    name: reviewService
+    layers:
+      - {Ref: ReviewapilayerLambdaLayer}
+    events:
+      - http:
+          path: api/reviews
+          method: post
+          cors: true
+          authorizer: reviewAuthorizer
+      - http:
+          path: api/reviews
+          method: get
+          cors: true
+          authorizer: reviewAuthorizer
+
+  reviewCheckWorker:
+    handler: reviewServices/reviewCheckWorker.handler
+    name: reviewCheckWorker
+    layers:
+      - {Ref: ReviewapilayerLambdaLayer}
+    events:
+      - sqs:
+          arn:
+            Fn::GetAtt:
+              - reviewQueue
+              - Arn
+
+  reviewEmailWorker:
+    handler: reviewServices/reviewEmailWorker.handler
+    name: reviewEmailWorker
+    layers:
+      - {Ref: ReviewapilayerLambdaLayer}
+    events:
+      - sqs:
+          arn:
+            Fn::GetAtt:
+              - emailQueue
+              - Arn
+
+  getReview:
+    handler: reviewServices/getReview.handler
+    name: getReview
+    layers:
+      - {Ref: ReviewapilayerLambdaLayer}
+    vpc:
+      securityGroupIds:
+        - ${file(serverlessConfig.json):security_group_id}
+      subnetIds:
+        - ${file(serverlessConfig.json):private_subnet_1}
+        - ${file(serverlessConfig.json):public_subnet_1}
+        - ${file(serverlessConfig.json):public_subnet_2}
+
+
+  insertReview:
+    handler: reviewServices/insertReview.handler
+    name: insertReview
+    layers:
+      - {Ref: ReviewapilayerLambdaLayer}
+    vpc:
+      securityGroupIds:
+        - ${file(serverlessConfig.json):security_group_id}
+      subnetIds:
+        - ${file(serverlessConfig.json):private_subnet_1}
+        - ${file(serverlessConfig.json):public_subnet_1}
+        - ${file(serverlessConfig.json):public_subnet_2}
+
+
+  updateReview:
+    handler: reviewServices/updateReview.handler
+    name: updateReview
+    layers:
+      - {Ref: ReviewapilayerLambdaLayer}
+    vpc:
+      securityGroupIds:
+        - ${file(serverlessConfig.json):security_group_id}
+      subnetIds:
+        - ${file(serverlessConfig.json):private_subnet_1}
+        - ${file(serverlessConfig.json):public_subnet_1}
+        - ${file(serverlessConfig.json):public_subnet_2}
+
+resources:
+  Resources:
+    reviewQueue:
+      Type: AWS::SQS::Queue
+      Properties:
+        QueueName: reviewQueue
+    emailQueue:
+      Type: AWS::SQS::Queue
+      Properties:
+        QueueName: emailQueue
+
+
+#    AWSLambdaVPCAccessExecutionRole:
+#      Type: AWS::IAM::ManagedPolicy
+#      Properties:
+#        Description: Policy for allowing vpc connection.
+#        Roles:
+#          - {"Ref" : "IamRoleLambda"}
+#        PolicyDocument:
+#          Version: '2012-10-17'
+#          Statement:
+#            Effect: Allow
+#            Action:
+#              - "logs:CreateLogGroup"
+#              - "logs:CreateLogStream"
+#              - "logs:PutLogEvents"
+#              - "ec2:CreateNetworkInterface"
+#              - "ec2:DescribeNetworkInterfaces"
+#              - "ec2:DeleteNetworkInterface"
+#            Resource: "*"
+
+
+#resources:
+#  Resources:
+#    AWSLambdaVPCAccessExecutionRole:
+#      Type: AWS::IAM::ManagedPolicy
+#      Properties:
+#        Description: Creating policy for vpc connetion.
+#        Roles:
+#          - {"Ref" : "IamRoleLambdaExecution"}
+#        PolicyDocument:
+#          Version: '2012-10-17'
+#          Statement:
+#            - Effect: Allow
+#              Action:
+#                - ec2:CreateNetworkInterface
+#                - ec2:DescribeNetworkInterfaces
+#                - ec2:DeleteNetworkInterface
+#              Resource: "*"
+#
+#      - Effect: Allow
+#        Action:
+#          - sqs:DeleteMessage
+#          - sqs:ReceiveMessage
+#        Resource:
+#          - "*"

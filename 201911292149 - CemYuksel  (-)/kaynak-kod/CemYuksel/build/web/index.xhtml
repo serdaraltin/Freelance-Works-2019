@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:c="http://xmlns.jcp.org/jsp/jstl/core">
+
+
+    <h:head>
+        <title>Gazate</title>
+        <h:outputStylesheet library="css" name="bootstrap.css"/>
+    </h:head>
+    <h:body>
+        <h3 style="text-align: center" class="container h3">Yazılar</h3>
+        <div class="container">
+            <h:dataTable styleClass="table table-striped" value="#{writecontroller.getwList}" var="write">
+                <h:column>
+                    <f:facet name="header">id</f:facet>
+                        #{write.id}
+                </h:column>
+                <h:column>
+                    <f:facet name="header">baslik</f:facet>
+                     <h:form>
+                    <a href="#{write.id}">#{write.baslik}</a>
+                     </h:form>
+                </h:column>
+                <h:column>
+                    <f:facet name="header">icerik</f:facet>
+                        #{write.icerik}
+                </h:column>
+                <h:column>
+                    <f:facet name="header">yazar</f:facet>
+                        #{write.yazar}
+                </h:column>
+                <h:column>
+                    <f:facet name="header">sil</f:facet>
+                    <h:form>
+                        <h:commandButton value="Delete" styleClass="btn btn-danger" action="#{writeDAO.delete(write.id)}"></h:commandButton>
+                    </h:form>
+
+                </h:column>
+
+            </h:dataTable>
+        </div>
+    </h:body>
+</html>
+

@@ -1,0 +1,2 @@
+1 - Sistemdeki kayıtlı şifreleri alma.
+(Chrome , Opera , Mozilla , Putty , FileZilla)

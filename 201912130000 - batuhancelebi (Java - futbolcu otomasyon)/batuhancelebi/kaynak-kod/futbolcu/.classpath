@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/cdi-api-2.0.SP1.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/derby.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/javax.el-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/javax.faces.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/javax.interceptor-api-1.2.jar"/>
+	<classpathentry kind="output" path="build/web/WEB-INF/classes"/>
+</classpath>

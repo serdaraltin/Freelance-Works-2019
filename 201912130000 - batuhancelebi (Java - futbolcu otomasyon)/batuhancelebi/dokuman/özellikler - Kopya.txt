@@ -1,0 +1,9 @@
+-Online futbolcu database i olarak kullanılacak bir site.
+-Kullanıcı siteye girip istediği bir futbolcunun adını aratarak "Adı,Soyadı,Yaşı,Milliyeti,Takımı,maç sayısı,gol sayısı,asist sayısı" özelliklerini görebilecek.Ve sayfanın dibinde bütün listeyi gör diye seçenek olmalı.
+-Aynı zamanda yeni oyuncu ekleyebilecek , silebilecek ve düzenleyebilecek.
+-Veri eklenirken eksik bir bilgi olduğunda kutucuk yanında örneğin yaş bilgisi eklemeniz gerekiyor gibi validation olacak.
+-Bir tane facelets de AJAX desteği olması yeterli.
+-Databasede 10 farklı futbolcu olması yeterli.
+-Anasayfada "search,edit,add,delete" butonları olup seçilene göre o sayfaya gidilsin.
+-Hocanın talep ettiği bilgileri de yolladım dil desteği olmadan olabilir.
+-Bir de her web sayfasının kullanıldıktan sonra ki halini ekran görüntüsü alıp yollayabilirseniz çok mutlu olurum.

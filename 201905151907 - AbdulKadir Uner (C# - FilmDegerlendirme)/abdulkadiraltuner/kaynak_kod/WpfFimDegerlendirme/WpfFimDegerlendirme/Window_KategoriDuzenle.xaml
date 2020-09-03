@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfFimDegerlendirme.Window_KategoriDuzenle"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfFimDegerlendirme"
+        mc:Ignorable="d"
+        Title="Kategori Duzenle" Height="300" Width="300" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Grid>
+        <Label x:Name="label" Content="Ad" HorizontalAlignment="Left" Margin="55,84,0,0" VerticalAlignment="Top" Height="23"/>
+        <TextBox x:Name="txtAd" HorizontalAlignment="Left" Height="23" Margin="85,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="label_Copy" Content="Acıklama" HorizontalAlignment="Left" Margin="22,112,0,0" VerticalAlignment="Top" Height="23"/>
+        <TextBox x:Name="txtAciklama" HorizontalAlignment="Left" Height="23" Margin="85,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180"/>
+        <Button x:Name="btnGuncelle" Content="Güncelle" HorizontalAlignment="Left" Height="30" Margin="175,140,0,0" VerticalAlignment="Top" Width="90" Click="btnGuncelle_Click"/>
+
+    </Grid>
+</Window>

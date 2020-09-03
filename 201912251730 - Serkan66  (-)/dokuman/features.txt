@@ -1,0 +1,9 @@
+1. Veri tabanı en az 3 veri kümesinde oluşacak ve her kümede en az 10 kayıt içeren yapıda olacak. 
+
+2. 3 adet normal sorgu , 3 adet parametrik sorgu, 3 adet crosstab sorgu (çapraz sorgu) yazılacak.
+ 
+3. Her veri kümesi için veri girişi yapılacak FORMLAR ve bir ANA FORM oluşturulacak. 
+
+4. En az 1 hazır macro ve 2 tane kullanıcı tanımlı macro kullanılacak 
+
+5. En az 2 rapor oluşturulacak (koşul-sorguya bağlı)

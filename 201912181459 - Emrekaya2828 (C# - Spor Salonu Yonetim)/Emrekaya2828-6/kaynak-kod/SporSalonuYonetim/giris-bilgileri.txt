@@ -1,0 +1,2 @@
+kullanıcı adı : kullanıcı
+parola		  : 123456

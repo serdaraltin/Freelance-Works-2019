@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Wed Dec 11 01:47:57 EET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-016e-f1ff-68d1-000006e971c8 
+on database directory C:\Users\Serdar\Desktop\Sadeceon\#Biten\CemYuksel\kaynak-kod\CemYuksel\database  with class loader sun.misc.Launcher$AppClassLoader@7d4991ad 
+Loaded from file:/C:/Users/Serdar/Desktop/Sadeceon/%23Biten/CemYuksel/kaynak-kod/CemYuksel/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\Users\Serdar\Desktop\Sadeceon\#Biten\CemYuksel\kaynak-kod\CemYuksel
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:h="http://java.sun.com/jsf/html"  xmlns:f="http://xmlns.jcp.org/jsf/core" 
+			xmlns:p="http://xmlns.jcp.org/jsf/passthrough">
+<h:head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1" http-equiv="X-UA-Conpatible" />
+    <h:outputStylesheet library="css" name="bootstrap.min.css" />
+    <title>JSF JPA Crud Example</title>
+    <style type="text/css">
+        .updateBtnStyle {
+        	width: 80px !important;        	
+        }
+         .col-sm-updated {        	
+    		padding-top: 7px;    		
+        }
+         .col-sm-updated a {
+         	text-decoration: none !important;
+        }
+        .text-edit {
+        	margin-left: 123px !important;
+    		margin-top: 29px !important;
+        }
+    </style>
+</h:head>
+<h:body>
+		<center><h2><h:outputText value="Edit School Record"/></h2></center>
+        <h:form id="editSchoolForm" styleClass="form-horizontal">                        
+            <div class="form-group">
+                <h:outputLabel for="idLabel" styleClass="control-label col-sm-2">Id:</h:outputLabel>
+                <div class="col-sm-4"><h:inputText id="schoolId" value="#{schoolBean.editSchoolId}" p:readonly="readonly" styleClass="form-control" /></div>
+            </div>
+            <div class="form-group">
+                <h:outputLabel for="nameLabel" styleClass="control-label col-sm-2">New Name:</h:outputLabel>
+                <div class="col-sm-4"><h:inputText id="name" value="#{schoolBean.name}" styleClass="form-control" /></div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-2" />
+                <div class="col-sm-4">
+                    <h:commandButton value="Update" action="#{schoolBean.updateSchoolDetails(schoolBean)}" styleClass="btn btn-primary updateBtnStyle" />
+                </div>
+                <div class="col-sm-1" />
+                <div class="col-sm-updated"><h:outputLink value="schoolsList.xhtml">View School Record List</h:outputLink></div>
+            </div>
+            <div class="text text-success text-edit"><h:message for="schoolId" /></div>
+        </h:form>
+    </h:body>
+</html>

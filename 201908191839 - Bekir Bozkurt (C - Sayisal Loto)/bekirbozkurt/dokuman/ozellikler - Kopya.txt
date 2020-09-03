@@ -1,0 +1,19 @@
+1. kullanıcıdan kaç kolon oynayacağı sorulacak ve ona göre kolon sayısı belirlenecek.
+
+2. sayılar 1 ile 49 arasından birbirinden farklı 6 sayı olacak şekilde seçilmelidir.
+
+3. seçilen sayılardan en fazla 4 tanesi çift veya en fazla 4 tanesi tek sayı olmalıdır.
+
+4. seçilen sayılardan en az 1, en fazla 3 tanesi asal sayı olmalıdır.
+
+5. seçilen sayılardan en fazla 2 tanesi ardışık olmalıdır.
+
+6. seçilen sayılar aşağıdaki belirtilen aralıkta ve sayılarda olmalıdır :
+
+	a. 1-9 arasında en fazla 2 sayı
+	b. 10-19 arasında en fazla 2 sayı
+	c. 20-29 arasında en fazla 2 sayı
+	d. 30-39 arasında en fazla 2 sayı
+	e. 40-49 arasında en fazla 2 sayı
+
+7. belirlenen tüm kolon ve sayılar hem ekrana hem de dosyaya küçükten büyüğe doğru sıralı şekilde yazılmalıdır.

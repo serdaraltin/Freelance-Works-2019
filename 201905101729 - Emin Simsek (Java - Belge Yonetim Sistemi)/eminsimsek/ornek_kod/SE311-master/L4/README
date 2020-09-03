@@ -1,0 +1,17 @@
+Joseph Mulray
+SE311
+Lab 4: Distributed Odd Number Finder 
+3/6/2018
+
+
+url: localhost
+port: 8080
+
+NumberFeederClient
+	Client.java
+
+OddFinderServer:
+	Server.java
+	RequestHandler.java
+
+Listed the two projects above. Server takes object in and send object back to client the is read and printed on client side.

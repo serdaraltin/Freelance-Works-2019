@@ -1,0 +1,3 @@
+ide              : Visual Studio Code
+operation system : Windows 10
+compiler         : AIO Compiler

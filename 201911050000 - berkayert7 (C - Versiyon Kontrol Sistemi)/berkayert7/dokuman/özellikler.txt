@@ -1,0 +1,4 @@
+1)Girdi fonksiyonu
+	int diff(File *input1, File *input2, File *output, intcomment)
+	Girilen iki adet dosya karşılaştırılacak ve farkı çıktı dosyasına yazılacak.
+	

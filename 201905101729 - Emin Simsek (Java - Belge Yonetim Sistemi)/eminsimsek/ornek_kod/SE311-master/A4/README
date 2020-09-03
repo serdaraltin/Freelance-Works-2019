@@ -1,0 +1,39 @@
+Joseph Mulray
+SE311
+3/12/18
+Assignment 4
+Simple Calculator
+
+client/: holds all client files
+server/: holds all server files
+UML: UML.jpg
+UML Component: UMLComponent.jpg
+
+Two directories are seperate projects. Both have main files to run:
+client/src/: MainCalc.java
+server/src/: Server.java
+
+Run the server first, running on localhost:8080, then run the MainCalc
+should have no issues from there.
+
+If you test for trying to create an error-ed operation and get ERR just have to 'C' clear it to get back to working again.
+
+`
+Sample Server Output:
+Total Number of Successful Math Equations: 1
+ 55 + 3 = 58
+Total Number of Successful Math Equations: 2
+ 55 + 3 = 58
+ 65 * 2 = 130
+Total Number of Successful Math Equations: 3
+ 55 + 3 = 58
+ 65 * 2 = 130
+ 9 + 3 - 2 * 5 = 50
+Total Number of Successful Math Equations: 4
+ 55 + 3 = 58
+ 65 * 2 = 130
+ 9 + 3 - 2 * 5 = 50
+ 88 + 12 / 10 * 4 = 40
+`
+Tested operations to make sure keep track and same time update view.
+Server keeps track of total operations and stores and prints the math expressions.

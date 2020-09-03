@@ -1,0 +1,2 @@
+Avlye ve stacke ekleme yaptıktan sonra algoritmalara göre görünmüyor.
+Menüden radix sırala dediğim zaman sonuç vermiyor.

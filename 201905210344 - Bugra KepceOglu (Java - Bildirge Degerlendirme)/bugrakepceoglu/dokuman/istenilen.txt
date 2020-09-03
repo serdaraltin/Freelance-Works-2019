@@ -1,0 +1,7 @@
+uygulama baþlangýcýnda kayýt olma ve giriþ yapma seçeneklerimiz olacak; 
+giriþ yaparken 3 adet üye tipimiz olacak,
+ona göre giriþ yapýldýðýnda kullanýcýnýn yapabilecekleri sýnýrlandýrýlacak(bildirge gönderme, puan verme vb) 
+hakem tipinde kullanýcýlar bildirgelere puan verebilecek,
+bildirgeler yüklenirken anahtar kelimeler belirlenecek,
+bildirgeyi puanlayacak hakemler anahtar kelimelere göre seçilip atanacak,
+atanan hakemler bildirgeleri puanlayacak ve ortalama bir puan çýkarýlacak buna göre bildirge kabul veya red edilecek  

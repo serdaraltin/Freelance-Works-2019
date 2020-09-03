@@ -1,0 +1,15 @@
+#300x300 boyutlarındaki bir ekranda çalışan bir yılan oyunu (Nokia 3310’daki meşhur oyun) yazacaksınız.
+#Yılan başlangıçta 10x10 büyüklüğünde siyah renkte olacak.
+#Her 500 ms’de 10 birim ileri gidecek (o an hangi yönde gidiyorsa).
+#Yılan bir yem yediğinde ekranda hemen başka yerde yeni bir yem çıkacak.
+Yem ekranda rastgele bir yerde çıkması lazım.
+#Yılanın üzerinde çıkamaz.
+#Yemin büyüklüğü de 10x10 olacak.
+Klasik yılan oyunundan farklı olarak, yem de hareket edecek.
+Her zaman yönünü rastgele belirleyecek ve 1000 ms’de 10 birim ileri gidecek.
+#Yem ekranın dışına çıkamaz ve yılana çarpamaz.
+#Yılan bir yem yediğinde boyu 10x10 uzayacak.
+Oyun ilk başladığında yılan (150,150) koordinatlarında olup yukarı doğru hareket edecek.
+Yılan kendisine veya duvarlara (ekranın kenarlarına) çarptığı zaman oyun sonlanacak ve başka bir pencerede yediği yem sayısı ve oynadığı süre (saniye cinsinden) yazacak.
+Ekran kapatıldığında program sonlanacak. Yılanı oyuncular klavyedeki ok tuşları ile yönlendirecek. İpucu-1: Klavyeden okumak için KeyListener sınıfını kullanabilirsiniz.
+İpucu-2: Bu ödevde thread kullanmanız gerekecek. Ödev metni bu şekilde

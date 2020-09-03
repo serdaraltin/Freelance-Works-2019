@@ -1,0 +1,5 @@
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828-3\Hayvanlar\bin\Debug\Hayvanlar.exe
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828-3\Hayvanlar\bin\Debug\Hayvanlar.pdb
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828-3\Hayvanlar\obj\Debug\Hayvanlar.csprojResolveAssemblyReference.cache
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828-3\Hayvanlar\obj\Debug\Hayvanlar.exe
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828-3\Hayvanlar\obj\Debug\Hayvanlar.pdb

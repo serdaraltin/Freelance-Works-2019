@@ -1,0 +1,10 @@
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\e8086\bin\Debug\Chipset\pcxtbios.bin
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\e8086\bin\Debug\KDS.e8086.dll
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\e8086\bin\Debug\KDS.e8086.pdb
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\e8086\obj\Debug\KDS.e8086.csprojResolveAssemblyReference.cache
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\e8086\obj\Debug\KDS.e8086.DebugWindow.resources
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\e8086\obj\Debug\KDS.e8086.Properties.Resources.resources
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\e8086\obj\Debug\KDS.e8086.NumberDialog.resources
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\e8086\obj\Debug\KDS.e8086.csproj.GenerateResource.Cache
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\e8086\obj\Debug\KDS.e8086.dll
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\e8086\obj\Debug\KDS.e8086.pdb

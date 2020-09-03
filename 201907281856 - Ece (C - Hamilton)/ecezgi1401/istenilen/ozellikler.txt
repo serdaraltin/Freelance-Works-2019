@@ -1,0 +1,2 @@
+Sayılar veya şehirler ekrandan girilecek.
+Ankara-Adana-istanbul-bolu-izmir-ankara

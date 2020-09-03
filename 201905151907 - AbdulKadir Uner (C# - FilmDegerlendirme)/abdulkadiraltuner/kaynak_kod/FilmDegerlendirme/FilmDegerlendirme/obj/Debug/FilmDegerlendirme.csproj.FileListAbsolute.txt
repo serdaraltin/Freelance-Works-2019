@@ -1,0 +1,13 @@
+C:\Users\MAIN\Desktop\abdulkadiraltuner\kaynak_kod\FilmDegerlendirme\FilmDegerlendirme\obj\Debug\FilmDegerlendirme.csprojResolveAssemblyReference.cache
+C:\Users\MAIN\Desktop\abdulkadiraltuner\kaynak_kod\FilmDegerlendirme\FilmDegerlendirme\obj\Debug\FilmDegerlendirme.Form_SunucuBaglanti.resources
+C:\Users\MAIN\Desktop\abdulkadiraltuner\kaynak_kod\FilmDegerlendirme\FilmDegerlendirme\obj\Debug\FilmDegerlendirme.Properties.Resources.resources
+C:\Users\MAIN\Desktop\abdulkadiraltuner\kaynak_kod\FilmDegerlendirme\FilmDegerlendirme\obj\Debug\FilmDegerlendirme.csproj.GenerateResource.Cache
+C:\Users\MAIN\Desktop\abdulkadiraltuner\kaynak_kod\FilmDegerlendirme\FilmDegerlendirme\bin\Debug\FilmDegerlendirme.exe.config
+C:\Users\MAIN\Desktop\abdulkadiraltuner\kaynak_kod\FilmDegerlendirme\FilmDegerlendirme\bin\Debug\FilmDegerlendirme.exe
+C:\Users\MAIN\Desktop\abdulkadiraltuner\kaynak_kod\FilmDegerlendirme\FilmDegerlendirme\bin\Debug\FilmDegerlendirme.pdb
+C:\Users\MAIN\Desktop\abdulkadiraltuner\kaynak_kod\FilmDegerlendirme\FilmDegerlendirme\obj\Debug\FilmDegerlendirme.exe
+C:\Users\MAIN\Desktop\abdulkadiraltuner\kaynak_kod\FilmDegerlendirme\FilmDegerlendirme\obj\Debug\FilmDegerlendirme.pdb
+C:\Users\MAIN\Desktop\abdulkadiraltuner\kaynak_kod\FilmDegerlendirme\FilmDegerlendirme\obj\Debug\FilmDegerlendirme.Form_YoneticiGiris.resources
+C:\Users\MAIN\Desktop\abdulkadiraltuner\kaynak_kod\FilmDegerlendirme\FilmDegerlendirme\obj\Debug\FilmDegerlendirme.Form_YonetimPanel.resources
+C:\Users\MAIN\Desktop\abdulkadiraltuner\kaynak_kod\FilmDegerlendirme\FilmDegerlendirme\obj\Debug\FilmDegerlendirme.Form_KullaniciGiris.resources
+C:\Users\MAIN\Desktop\abdulkadiraltuner\kaynak_kod\FilmDegerlendirme\FilmDegerlendirme\obj\Debug\FilmDegerlendirme.Form_KullaniciKayit.resources

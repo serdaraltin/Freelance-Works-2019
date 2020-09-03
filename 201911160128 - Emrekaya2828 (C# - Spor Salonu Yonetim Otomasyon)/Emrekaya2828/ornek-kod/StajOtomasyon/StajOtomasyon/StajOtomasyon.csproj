@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{27CE8B45-0622-4634-A4B4-A426833F98C5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StajOtomasyon</RootNamespace>
+    <AssemblyName>StajOtomasyon</AssemblyName>
+    <TargetFrameworkVersion>v3.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ayar_Veritabani.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Ayar_Veritabani.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Anasayfa.Designer.cs">
+      <DependentUpon>Form_Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Baglanti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Baglanti.Designer.cs">
+      <DependentUpon>Form_Baglanti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Giris.Designer.cs">
+      <DependentUpon>Form_Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_IsyeriYonetim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_IsyeriYonetim.Designer.cs">
+      <DependentUpon>Form_IsyeriYonetim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_OgrenciYonetim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_OgrenciYonetim.Designer.cs">
+      <DependentUpon>Form_OgrenciYonetim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_OgretmenYonetim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_OgretmenYonetim.Designer.cs">
+      <DependentUpon>Form_OgretmenYonetim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Staj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Staj.Designer.cs">
+      <DependentUpon>Form_Staj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_VeliYonetim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_VeliYonetim.Designer.cs">
+      <DependentUpon>Form_VeliYonetim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VeritabaniIslemleri.cs" />
+    <EmbeddedResource Include="Form_Anasayfa.resx">
+      <DependentUpon>Form_Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Baglanti.resx">
+      <DependentUpon>Form_Baglanti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Giris.resx">
+      <DependentUpon>Form_Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_IsyeriYonetim.resx">
+      <DependentUpon>Form_IsyeriYonetim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_OgrenciYonetim.resx">
+      <DependentUpon>Form_OgrenciYonetim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_OgretmenYonetim.resx">
+      <DependentUpon>Form_OgretmenYonetim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Staj.resx">
+      <DependentUpon>Form_Staj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_VeliYonetim.resx">
+      <DependentUpon>Form_VeliYonetim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Ayar_Veritabani.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Ayar_Veritabani.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ogrenci.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

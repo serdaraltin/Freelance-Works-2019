@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfFimDegerlendirme.Window_AnaPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfFimDegerlendirme"
+        mc:Ignorable="d"
+        Title="Ana Panel" Height="226" Width="318" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid>
+        <Button x:Name="button" Content="Kullanıcı Girişi" HorizontalAlignment="Left" Height="55" Margin="15,65,0,0" VerticalAlignment="Top" Width="135" Click="button_Click"/>
+        <Button x:Name="button_Copy" Content="Yönetici Girişi" HorizontalAlignment="Left" Height="55" Margin="155,65,0,0" VerticalAlignment="Top" Width="135" Click="button_Copy_Click"/>
+
+    </Grid>
+</Window>

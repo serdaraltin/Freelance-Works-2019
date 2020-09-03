@@ -1,0 +1,19 @@
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\obj\Debug\StajOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\obj\Debug\StajOtomasyon.Form_Baglanti.resources
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\obj\Debug\StajOtomasyon.Properties.Resources.resources
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\obj\Debug\StajOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\bin\Debug\StajOtomasyon.exe
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\bin\Debug\StajOtomasyon.pdb
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\obj\Debug\StajOtomasyon.exe
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\obj\Debug\StajOtomasyon.pdb
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\bin\Debug\StajOtomasyon.exe.config
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\obj\Debug\StajOtomasyon.Form_Giris.resources
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\obj\Debug\StajOtomasyon.Form_OgrenciYonetim.resources
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\obj\Debug\StajOtomasyon.Form_OgretmenYonetim.resources
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\obj\Debug\StajOtomasyon.Form_VeliYonetim.resources
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\obj\Debug\StajOtomasyon.Form_IsyeriYonetim.resources
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\obj\Debug\StajOtomasyon.Form_Staj.resources
+C:\Users\Main\Desktop\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\obj\Debug\StajOtomasyon.Form_Anasayfa.resources
+D:\00_Documents\05_Trading\201908121841 - Ertugrul 1907 (C# - Staj Takip Otomasyon)\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\bin\Debug\StajOtomasyon.exe.config
+D:\00_Documents\05_Trading\201908121841 - Ertugrul 1907 (C# - Staj Takip Otomasyon)\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\obj\Debug\StajOtomasyon.exe
+D:\00_Documents\05_Trading\201908121841 - Ertugrul 1907 (C# - Staj Takip Otomasyon)\ertugrul1907\kaynak-kod\StajOtomasyon\StajOtomasyon\obj\Debug\StajOtomasyon.pdb

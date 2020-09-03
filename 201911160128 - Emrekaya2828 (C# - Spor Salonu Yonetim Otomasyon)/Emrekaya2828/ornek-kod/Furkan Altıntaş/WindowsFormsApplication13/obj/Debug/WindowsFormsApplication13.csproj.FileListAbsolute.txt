@@ -1,0 +1,28 @@
+C:\Documents and Settings\Furkan\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+C:\Documents and Settings\Furkan\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+C:\Documents and Settings\Furkan\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Furkan\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form1.resources
+C:\Documents and Settings\Furkan\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Properties.Resources.resources
+C:\Documents and Settings\Furkan\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
+C:\Documents and Settings\Furkan\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+C:\Documents and Settings\Furkan\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
+C:\Documents and Settings\Furkan\Belgelerim\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form2.resources
+C:\Documents and Settings\Furkan\Desktop\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+C:\Documents and Settings\Furkan\Desktop\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
+C:\Documents and Settings\deneme\Desktop\FurkanAltntaAbbas_rar\Furkan Altıntaş Abbas\Furkan Altıntaş Abbas\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+C:\Documents and Settings\deneme\Desktop\FurkanAltntaAbbas_rar\Furkan Altıntaş Abbas\Furkan Altıntaş Abbas\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
+C:\Documents and Settings\deneme\Desktop\FurkanAltntaAbbas_rar\Furkan Altıntaş Abbas\Furkan Altıntaş Abbas\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+C:\Documents and Settings\deneme\Desktop\FurkanAltntaAbbas_rar\Furkan Altıntaş Abbas\Furkan Altıntaş Abbas\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+C:\Documents and Settings\deneme\Desktop\FurkanAltntaAbbas_rar\Furkan Altıntaş Abbas\Furkan Altıntaş Abbas\WindowsFormsApplication13\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\deneme\Desktop\FurkanAltntaAbbas_rar\Furkan Altıntaş Abbas\Furkan Altıntaş Abbas\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form1.resources
+C:\Documents and Settings\deneme\Desktop\FurkanAltntaAbbas_rar\Furkan Altıntaş Abbas\Furkan Altıntaş Abbas\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form2.resources
+C:\Documents and Settings\deneme\Desktop\FurkanAltntaAbbas_rar\Furkan Altıntaş Abbas\Furkan Altıntaş Abbas\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form3.resources
+C:\Documents and Settings\deneme\Desktop\FurkanAltntaAbbas_rar\Furkan Altıntaş Abbas\Furkan Altıntaş Abbas\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form4.resources
+C:\Documents and Settings\deneme\Desktop\FurkanAltntaAbbas_rar\Furkan Altıntaş Abbas\Furkan Altıntaş Abbas\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form5.resources
+C:\Documents and Settings\deneme\Desktop\FurkanAltntaAbbas_rar\Furkan Altıntaş Abbas\Furkan Altıntaş Abbas\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form6.resources
+C:\Documents and Settings\deneme\Desktop\FurkanAltntaAbbas_rar\Furkan Altıntaş Abbas\Furkan Altıntaş Abbas\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Properties.Resources.resources
+C:\Documents and Settings\deneme\Desktop\FurkanAltntaAbbas_rar\Furkan Altıntaş Abbas\Furkan Altıntaş Abbas\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
+C:\Users\HakanSeda\Desktop\12 Tb ÖDEV\13.06.2010\Furkan Altıntaş\Furkan Altıntaş\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+C:\Users\HakanSeda\Desktop\12 Tb ÖDEV\13.06.2010\Furkan Altıntaş\Furkan Altıntaş\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\ornek-kod\Furkan Altıntaş\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\ornek-kod\Furkan Altıntaş\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb

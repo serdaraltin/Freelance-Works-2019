@@ -1,0 +1,5 @@
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828-3\Mulk\bin\Debug\Mulk.exe
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828-3\Mulk\bin\Debug\Mulk.pdb
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828-3\Mulk\obj\Debug\Mulk.csprojResolveAssemblyReference.cache
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828-3\Mulk\obj\Debug\Mulk.exe
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828-3\Mulk\obj\Debug\Mulk.pdb

@@ -1,0 +1,4 @@
+takim_sayisi 10
+galibiyet_puan 2
+beraberlik_puan 1
+maglubiyet_puan -1

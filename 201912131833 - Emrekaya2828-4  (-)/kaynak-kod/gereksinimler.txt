@@ -1,0 +1,2 @@
+IDE : Visual Studio 2017
+Veritabanı : Microsoft Office Access 2003 veya üzeri

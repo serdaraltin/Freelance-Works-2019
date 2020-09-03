@@ -1,0 +1,11 @@
+C:\Users\Serdar\Desktop\Bilgi-Yarismasi\Bilgi-Yarismasi\bin\Debug\Bilgi-Yarismasi.exe.config
+C:\Users\Serdar\Desktop\Bilgi-Yarismasi\Bilgi-Yarismasi\bin\Debug\Bilgi-Yarismasi.exe
+C:\Users\Serdar\Desktop\Bilgi-Yarismasi\Bilgi-Yarismasi\bin\Debug\Bilgi-Yarismasi.pdb
+C:\Users\Serdar\Desktop\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi-Yarismasi.csprojResolveAssemblyReference.cache
+C:\Users\Serdar\Desktop\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi_Yarismasi.Form_Main.resources
+C:\Users\Serdar\Desktop\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi_Yarismasi.Form_VeritabaniBaglanti.resources
+C:\Users\Serdar\Desktop\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi_Yarismasi.Properties.Resources.resources
+C:\Users\Serdar\Desktop\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi-Yarismasi.csproj.GenerateResource.Cache
+C:\Users\Serdar\Desktop\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi-Yarismasi.exe
+C:\Users\Serdar\Desktop\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi-Yarismasi.pdb
+C:\Users\Serdar\Desktop\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi_Yarismasi.Form_SoruEkle.resources

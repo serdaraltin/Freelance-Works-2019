@@ -1,0 +1,5 @@
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828\MaasHesaplama\bin\Debug\MaasHesaplama.exe
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828\MaasHesaplama\bin\Debug\MaasHesaplama.pdb
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828\MaasHesaplama\obj\Debug\MaasHesaplama.csprojResolveAssemblyReference.cache
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828\MaasHesaplama\obj\Debug\MaasHesaplama.exe
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828\MaasHesaplama\obj\Debug\MaasHesaplama.pdb

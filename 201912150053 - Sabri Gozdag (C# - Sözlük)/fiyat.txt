@@ -1,0 +1,4 @@
+570 tl
+	120 -> 30% komisyon sadeceon
+	250 -> 5% komisyon sadeceon
+	200 -> 5% komisyon sadeceon

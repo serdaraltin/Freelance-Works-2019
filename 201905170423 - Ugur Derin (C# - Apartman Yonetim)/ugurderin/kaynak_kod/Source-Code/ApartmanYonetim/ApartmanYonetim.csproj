@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C932AB4C-A958-4403-ACDB-F1B1F789A88A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ApartmanYonetim</RootNamespace>
+    <AssemblyName>ApartmanYonetim</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form_AidatEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_AidatEkle.Designer.cs">
+      <DependentUpon>Form_AidatEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_AidatGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_AidatGuncelle.Designer.cs">
+      <DependentUpon>Form_AidatGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Anasayfa.Designer.cs">
+      <DependentUpon>Form_Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ApartmanEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ApartmanEkle.Designer.cs">
+      <DependentUpon>Form_ApartmanEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ApartmanGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ApartmanGuncelle.Designer.cs">
+      <DependentUpon>Form_ApartmanGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_BireyEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_BireyEkle.Designer.cs">
+      <DependentUpon>Form_BireyEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_BireyGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_BireyGuncelle.Designer.cs">
+      <DependentUpon>Form_BireyGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_BorcEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_BorcEkle.Designer.cs">
+      <DependentUpon>Form_BorcEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_BorcGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_BorcGuncelle.Designer.cs">
+      <DependentUpon>Form_BorcGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DuyuruEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DuyuruEkle.Designer.cs">
+      <DependentUpon>Form_DuyuruEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DuyuruGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DuyuruGuncelle.Designer.cs">
+      <DependentUpon>Form_DuyuruGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_FaturaEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_FaturaEkle.Designer.cs">
+      <DependentUpon>Form_FaturaEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_FaturaGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_FaturaGuncelle.Designer.cs">
+      <DependentUpon>Form_FaturaGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_GuvenlikEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_GuvenlikEkle.Designer.cs">
+      <DependentUpon>Form_GuvenlikEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_GuvenlikGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_GuvenlikGuncelle.Designer.cs">
+      <DependentUpon>Form_GuvenlikGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_KullaniciDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_KullaniciDuzenle.Designer.cs">
+      <DependentUpon>Form_KullaniciDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_KullaniciEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_KullaniciEkle.Designer.cs">
+      <DependentUpon>Form_KullaniciEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_KullaniciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_KullaniciGiris.Designer.cs">
+      <DependentUpon>Form_KullaniciGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_KullaniciPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_KullaniciPanel.Designer.cs">
+      <DependentUpon>Form_KullaniciPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_SunucuBaglanti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_SunucuBaglanti.Designer.cs">
+      <DependentUpon>Form_SunucuBaglanti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_UyeEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_UyeEkle.Designer.cs">
+      <DependentUpon>Form_UyeEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_UyeGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_UyeGuncelle.Designer.cs">
+      <DependentUpon>Form_UyeGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_YoneticiGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_YoneticiGiris.Designer.cs">
+      <DependentUpon>Form_YoneticiGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_YonetimPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_YonetimPanel.Designer.cs">
+      <DependentUpon>Form_YonetimPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SunucuBilgi.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>SunucuBilgi.settings</DependentUpon>
+    </Compile>
+    <Compile Include="VeriTabaniIslemleri.cs" />
+    <EmbeddedResource Include="Form_AidatEkle.resx">
+      <DependentUpon>Form_AidatEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_AidatGuncelle.resx">
+      <DependentUpon>Form_AidatGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Anasayfa.resx">
+      <DependentUpon>Form_Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ApartmanEkle.resx">
+      <DependentUpon>Form_ApartmanEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ApartmanGuncelle.resx">
+      <DependentUpon>Form_ApartmanGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_BireyEkle.resx">
+      <DependentUpon>Form_BireyEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_BireyGuncelle.resx">
+      <DependentUpon>Form_BireyGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_BorcEkle.resx">
+      <DependentUpon>Form_BorcEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_BorcGuncelle.resx">
+      <DependentUpon>Form_BorcGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DuyuruEkle.resx">
+      <DependentUpon>Form_DuyuruEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DuyuruGuncelle.resx">
+      <DependentUpon>Form_DuyuruGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_FaturaEkle.resx">
+      <DependentUpon>Form_FaturaEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_FaturaGuncelle.resx">
+      <DependentUpon>Form_FaturaGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_GuvenlikEkle.resx">
+      <DependentUpon>Form_GuvenlikEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_GuvenlikGuncelle.resx">
+      <DependentUpon>Form_GuvenlikGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_KullaniciDuzenle.resx">
+      <DependentUpon>Form_KullaniciDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_KullaniciEkle.resx">
+      <DependentUpon>Form_KullaniciEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_KullaniciGiris.resx">
+      <DependentUpon>Form_KullaniciGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_KullaniciPanel.resx">
+      <DependentUpon>Form_KullaniciPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_SunucuBaglanti.resx">
+      <DependentUpon>Form_SunucuBaglanti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_UyeEkle.resx">
+      <DependentUpon>Form_UyeEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_UyeGuncelle.resx">
+      <DependentUpon>Form_UyeGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_YoneticiGiris.resx">
+      <DependentUpon>Form_YoneticiGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_YonetimPanel.resx">
+      <DependentUpon>Form_YonetimPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="diyagram\Apartman.ccd" />
+    <None Include="diyagram\Apartman.pdf" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SunucuBilgi.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>SunucuBilgi.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="diyagram\Apartman.png" />
+    <None Include="Resources\User.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

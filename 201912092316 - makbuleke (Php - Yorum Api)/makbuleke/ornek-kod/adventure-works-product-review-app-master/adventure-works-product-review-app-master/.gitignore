@@ -1,0 +1,7 @@
+main.js
+*.zip
+node_modules
+.idea
+
+.serverless
+.terraform

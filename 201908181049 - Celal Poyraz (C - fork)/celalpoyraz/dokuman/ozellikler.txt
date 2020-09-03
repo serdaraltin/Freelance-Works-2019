@@ -1,0 +1,6 @@
+Sistemde bir parent bir de child process oluşturulacaktır.
+İlk olarak konsoldan bir sayı alınacak ve child process girilen sayıya kadar olan fibonacci sayılarını hesaplayıp ekrana yazdıracaktır.
+Girilen sayının pozitif olması ve max 20 olması gerekmektedir.
+Parent process ise sadece child processin çalışıp bitmesini bekleyecektir.
+
+C de olacak

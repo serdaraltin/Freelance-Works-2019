@@ -1,0 +1,9 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1000) [NO]
+      ,[TELEFON ADI]
+      ,[FİYAT(TL)]
+      ,[BATARYA(mAh)]
+      ,[KAMERA(MP)]
+      ,[BELLEK(RAM)]
+      ,[EKRAN BOYUTU(İNÇx100)]
+  FROM [TELEFON].[dbo].[TELEFON]

@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfFimDegerlendirme.Window_IncelemeYap"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfFimDegerlendirme"
+        mc:Ignorable="d"
+        Title="Inceleme Yap" Height="331" Width="433" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Margin="0,0,4,-4">
+        <Label x:Name="label1" Content="Film Adı" HorizontalAlignment="Left" Margin="20,28,0,0" VerticalAlignment="Top" Height="23"/>
+        <TextBox x:Name="txtFilmAdi" HorizontalAlignment="Left" Height="23" Margin="78,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="177" IsEnabled="False"/>
+        <Button x:Name="btnGonder" Content="Gönder" HorizontalAlignment="Left" Height="30" Margin="285,250,0,0" VerticalAlignment="Top" Width="120" Click="btnGonder_Click"/>
+        <Label x:Name="label1_Copy" Content="İnceleme" HorizontalAlignment="Left" Margin="18,62,0,0" VerticalAlignment="Top" Height="23"/>
+        <TextBox x:Name="txtFilmInceleme" HorizontalAlignment="Left" Height="173" Margin="81,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="324"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,7 @@
+- Proje üzerine çalýþtým yapacaðýmýz uygulama ekranýnda kullanýcýdan bir dil alýnacak ( bir kural )
+- Daha sonra iki sayý girilecek o kural ile sayýlar üretilebiliyor mu onun kontrolü yapýlacak
+- uygulamanýn alt tarafýnda 3 adet buton bulunacak bu butonlar : GRAMER, PDA, MACHÝNE butonlarý olacak ( örneðin pda ya basýldýðýnda pda sý çizilecek )
+
+uyguamaya ait bir döküman bulunmamaktadýr. yapýlacak maddeler bunlar bir de bunu kaðýda çizip atacaðým
+
+pda, machine çizmek ile ilgili örnekleri netten bakabilirsiniz 

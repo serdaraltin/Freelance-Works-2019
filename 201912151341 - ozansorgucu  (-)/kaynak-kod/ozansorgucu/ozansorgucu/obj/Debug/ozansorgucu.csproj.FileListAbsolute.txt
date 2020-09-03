@@ -1,0 +1,10 @@
+C:\Users\Serdar\Desktop\Trade\Sadeceon\ozansorgucu\kaynak-kod\ozansorgucu\ozansorgucu\obj\Debug\ozansorgucu.csprojResolveAssemblyReference.cache
+C:\Users\Serdar\Desktop\Trade\Sadeceon\ozansorgucu\kaynak-kod\ozansorgucu\ozansorgucu\obj\Debug\ozansorgucu.Properties.Resources.resources
+C:\Users\Serdar\Desktop\Trade\Sadeceon\ozansorgucu\kaynak-kod\ozansorgucu\ozansorgucu\obj\Debug\ozansorgucu.csproj.GenerateResource.Cache
+C:\Users\Serdar\Desktop\Trade\Sadeceon\ozansorgucu\kaynak-kod\ozansorgucu\ozansorgucu\bin\Debug\ozansorgucu.exe.config
+C:\Users\Serdar\Desktop\Trade\Sadeceon\ozansorgucu\kaynak-kod\ozansorgucu\ozansorgucu\bin\Debug\ozansorgucu.exe
+C:\Users\Serdar\Desktop\Trade\Sadeceon\ozansorgucu\kaynak-kod\ozansorgucu\ozansorgucu\bin\Debug\ozansorgucu.pdb
+C:\Users\Serdar\Desktop\Trade\Sadeceon\ozansorgucu\kaynak-kod\ozansorgucu\ozansorgucu\obj\Debug\ozansorgucu.Form_VeritabaniBaglanti.resources
+C:\Users\Serdar\Desktop\Trade\Sadeceon\ozansorgucu\kaynak-kod\ozansorgucu\ozansorgucu\obj\Debug\ozansorgucu.exe
+C:\Users\Serdar\Desktop\Trade\Sadeceon\ozansorgucu\kaynak-kod\ozansorgucu\ozansorgucu\obj\Debug\ozansorgucu.pdb
+C:\Users\Serdar\Desktop\Trade\Sadeceon\ozansorgucu\kaynak-kod\ozansorgucu\ozansorgucu\obj\Debug\ozansorgucu.Form_AnaSayfa.resources

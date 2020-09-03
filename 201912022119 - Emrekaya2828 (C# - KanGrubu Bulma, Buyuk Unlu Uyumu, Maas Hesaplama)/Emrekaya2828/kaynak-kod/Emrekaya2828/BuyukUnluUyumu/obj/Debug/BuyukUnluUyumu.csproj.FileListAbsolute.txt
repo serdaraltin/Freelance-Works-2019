@@ -1,0 +1,4 @@
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828\BuyukUnluUyumu\bin\Debug\BuyukUnluUyumu.exe
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828\BuyukUnluUyumu\bin\Debug\BuyukUnluUyumu.pdb
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828\BuyukUnluUyumu\obj\Debug\BuyukUnluUyumu.exe
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828\BuyukUnluUyumu\obj\Debug\BuyukUnluUyumu.pdb

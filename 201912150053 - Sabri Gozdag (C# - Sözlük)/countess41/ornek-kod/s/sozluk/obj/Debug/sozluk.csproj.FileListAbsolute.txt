@@ -1,0 +1,9 @@
+D:\Visual Studio 2013\Projects\sozluk\sozluk\bin\Debug\sozluk.exe.config
+D:\Visual Studio 2013\Projects\sozluk\sozluk\bin\Debug\sozluk.exe
+D:\Visual Studio 2013\Projects\sozluk\sozluk\bin\Debug\sozluk.pdb
+D:\Visual Studio 2013\Projects\sozluk\sozluk\obj\Debug\sozluk.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\sozluk\sozluk\obj\Debug\sozluk.Form1.resources
+D:\Visual Studio 2013\Projects\sozluk\sozluk\obj\Debug\sozluk.Properties.Resources.resources
+D:\Visual Studio 2013\Projects\sozluk\sozluk\obj\Debug\sozluk.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\sozluk\sozluk\obj\Debug\sozluk.exe
+D:\Visual Studio 2013\Projects\sozluk\sozluk\obj\Debug\sozluk.pdb

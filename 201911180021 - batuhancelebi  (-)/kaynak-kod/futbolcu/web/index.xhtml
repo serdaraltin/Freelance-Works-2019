@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html 
+    xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:h="http://xmlns.jcp.org/jsf/html"
+    xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+    xmlns:f="http://java.sun.com/jsf/core"
+
+    xmlns:c="http://xmlns.jcp.org/jsp/jstl/core">
+    <h:head>
+        <title>Football</title>
+        <h:outputStylesheet library="css" name="bootstrap.css"/> 
+    </h:head>
+    <h:body>
+        
+        
+        <div align="center" class="col-12">
+        <h:form>
+            <h:commandButton value="ARA" styleClass="btn btn-info form-control" action=""></h:commandButton>
+        </h:form>
+        <h:form>
+            <h:commandButton value="DÜZENLE" styleClass="btn btn-light form-control" ></h:commandButton>
+        </h:form>
+        <h:form>
+            <h:commandButton value="EKLE" styleClass="btn btn-primary form-control" ></h:commandButton>
+        </h:form>
+        <h:form>
+            <h:commandButton value="SİL" styleClass="btn btn-danger form-control" ></h:commandButton>
+        </h:form>
+        </div>
+        <br></br>
+        <div>
+             <h3 style="text-align: center" class="container h3">FUTBOLCULAR</h3>
+        </div>
+
+      <div class="container">
+
+            <f:view>
+                <h:form>
+                    <h:dataTable styleClass="table table-striped" value="#{futbolcuController.listele()}" var="item">
+                        <h:column>
+                            <f:facet name="header">Id</f:facet>#{item.id}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Ad</f:facet>#{item.ad}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Soyad</f:facet>#{item.soyad}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Yas</f:facet>#{item.yas}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Milliyet</f:facet>#{item.milliyet}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Takim</f:facet>#{item.takim}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Mac Sayisi</f:facet>#{item.mac_sayi}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Gol Sayisi</f:facet>#{item.gol_sayi}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Asist Sayisi</f:facet>#{item.asist_sayi}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Sil</f:facet>
+                            <h:form>
+                                <h:commandButton value="Sil" styleClass="btn btn-danger" action="#{futbolcuController.Sil(item)}"></h:commandButton>
+                            </h:form>
+                        </h:column>
+                    </h:dataTable>
+                </h:form>
+            </f:view>
+        </div>
+
+    </h:body>
+</html>
+

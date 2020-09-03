@@ -1,0 +1,33 @@
+#include<stdio.h>
+#include<time.h>
+#include<stdlib.h>
+
+
+int main()
+{
+     int number;
+     int j,i,a,b;  
+     printf("how many columns do you want?\n");
+     scanf("%d",&number);
+     if(number>0 && number<100){    // aldığımız sayı kontrol ettik.
+     
+      srand( time(NULL) );    //zamana bağlı rastgele değerler üretttik
+       for( i = 0; i < number; i++ ){     
+             a=1+rand()%49;
+             printf( " %d\t",a );
+                 for(j=0; j<5; j++){
+                    b=1+rand()%49;
+                    if(a==b)     // eşit değer olup olmadığını kontrol ettik.
+                    continue;
+                    else
+                    printf("%d\t",b); 
+           }                
+                printf("\n");
+         }                       
+       }
+       else   // eger sayı 1 ile 100 arasında değilse. programdan cıktık.
+       printf("Enter the number from 1 to 100...");
+system("pause");
+      
+  return 0;
+}

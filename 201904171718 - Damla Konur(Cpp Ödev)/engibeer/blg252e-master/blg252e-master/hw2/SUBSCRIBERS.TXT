@@ -1,0 +1,82 @@
+IP	50183	Abdullah	Erguven		1246	
+IP	80114	Adnan		Oren		567	
+IN	30066	Ahmet		Akkaya		392	
+S	90186	Ahmet		Asrak		96	Isbank
+IN	70061	Asli		Urgenc		330	
+S	10128	Baris		Bayin		4530	Akbank
+IN	70090	Batuhan		Avci		341	
+S	80120	Bayram		Ozbek		2293	Ziraatbank
+S	70045	Burak		Pekkoc		1941	Vakifbank
+IN	80125	Burcin		Bilici		142	
+S	80280	Busra		Topal		183	Akbank
+IT	90006	Cagatay		Arliker		38	
+IN	60240	Cahit		Altintas	340	
+S	80010	Ceren		Aydogan		1590	Garantibank
+IN	80049	Ceyhun		Ulas		88	
+IN	10231	Ceyhun		Unal		30	
+IN	90065	Cumhur		Kazakoglu	191	
+IN	60232	Dilara		Cetin		55	
+IP	70072	Dilek		Saglam		510	
+IN	70131	Doruk		Hatipoglu	115	
+IT	80110	Doruk		Yuksel		0	
+IT	80046	Duygu		Candan		52	
+IP	60124	Duygu		Gulec		659	
+IN	90029	Ece		Yildirim	367	
+IT	90059	Ecenur		Seyithanoglu	99	
+S	10810	Eda		Kocak		3909	Isbank
+IT	80027	Emre		Yesildag	99	
+IT	70038	Erdem		Gurkut		58	
+IT	80101	Erhan		Dogan		73	
+S	60207	Esra		Alkanat		1318	Ziraatbank
+IN	80055	Ezgi		Cimenli		170	
+IN	90046	Ezgi		Dortboluk	236	
+IP	10028	Faruk		Usta		847	
+IN	20701	Fatma		Ozkok		228	
+IN	90036	Furkan		Albayrak	340	
+IT	80157	Gizem		Kocaoglu	4	
+S	90035	Gokhan		Ketencioglu	2636	Isbank
+IP	80126	Gorkem		Saka		442	
+IT	80096	Gurkan		Kurbanoglu	91	
+IP	10065	Hande		Birlik		610	
+S	90504	Handegul	Ozturk		1415	Vakifbank
+IP	80374	Kenan		Demirel		1415	
+IT	10402	Mehmet		Kaynan		46	
+IP	80179	Mehmet		Kazanci		1285	
+IP	80016	Mehmet		Sezgin		1706	
+S	60251	Mert		Elci		4077	Vakifbank
+S	80059	Mert		Yalcinkaya	2785	Halkbank
+IT	80251	Merve		Arslan		84	
+IN	80013	Merve		Karagoz		330	
+IT	10032	Metin		Sahin		97	
+S	80115	Muhammet	Kursunlu	3019	Ziraatbank
+IP	70046	Murat		Ozdemir		1243	
+IN	80097	Murat		Ozmelek		252	
+S	90047	Murat		Yildirim	1950	Vakifbank
+IT	10808	Mustafa		Ozkan		69	
+S	80064	Nazif		Gurbuz		998	Isbank
+IP	60045	Oktay		Kurt		1316	
+IT	60227	Omer		Ekiz		53	
+IP	10067	Osman		Yucel		40	
+IT	80155	Ozge		Buyukaslan	23	
+IN	70107	Ozgur		Ozkan		198	
+IP	80284	Ramazan		Calgan		68	
+IP	90072	Salih		Cevahir		247	
+IT	80309	Samet		Gundogdu	61	
+IP	60166	Sedat		Kervanci	1338	
+IT	80094	Selin		Karacayli	96	
+IN	80703	Selin		Koc		273	
+IT	80129	Serkan		Aslan		46	
+IP	90063	Sinan		Taylan		1008	
+IN	70019	Suat		Kilic		70	
+S	80031	Sukru		Dalkiran	2960	Ziraatbank
+IT	80015	Tayfun		Aktas		17	
+IN	70021	Tuba		Seymen		28	
+IP	90270	Tugba		Baser		55	
+IP	80230	Ugur		Yuruk		881	
+IT	80119	Unal		Yalcin		92	
+S	90028	Utku		Kutlu		4685	Garantibank
+S	80024	Yasemin		Aydin		2081	Halkbank
+IP	90166	Yasin		Bozkurt		1359	
+S	10039	Yusuf		Donmez		2356	Vakifbank
+IT	80190	Yusuf		Kadioglu	25	
+IT	80017	Zeynep		Altan		70	

@@ -1,0 +1,46 @@
+#include<stdio.h>
+#include<conio.h>
+#include<stdlib.h>
+
+ int main() {
+  int i=1;
+  int sayi1=0;
+  int sayi2=0;
+  int sayi3=0;
+  int sayi4=0;
+  int sayi5=0;
+  int sayi6=0;
+  int rasgelesayi=0;
+   
+    while(i<=6)  {
+       rasgelesayi=(rand()%49)+1;
+       if(rasgelesayi!=sayi1 && rasgelesayi!=sayi2 &&
+         rasgelesayi!=sayi3  && rasgelesayi!=sayi4 &&
+         rasgelesayi!=sayi5 && rasgelesayi!=sayi6 )
+                   
+                   {
+           switch(i)  {
+             case 1: sayi1=rasgelesayi; break;
+             case 2: sayi2=rasgelesayi; break;
+             case 3: sayi3=rasgelesayi; break;
+             case 4: sayi4=rasgelesayi; break;
+             case 5: sayi5=rasgelesayi; break;
+             case 6: sayi6=rasgelesayi; break;
+             }
+             }  else {
+                   continue;   
+                   }      
+       i++;             
+       }  
+    
+         printf("işte  sayılarınız bollllll sanssssnn");
+         printf(" 1.sayi:%dn",sayi1);
+         printf("2.sayi:%dn",sayi2);
+         printf("3.sayi:%dn",sayi3);
+         printf("4.sayi:%dn",sayi4);
+         printf("5.sayi:%dn",sayi5);
+         printf("6.sayi:%dn",sayi6);
+         getch();
+         return 0;
+         }              
+ 

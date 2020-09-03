@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfFimDegerlendirme.Window_AnaSayfa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfFimDegerlendirme"
+        mc:Ignorable="d"
+        Title="Anasayfa" Height="221" Width="464" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="btnGirisYap" Content="GİRİŞ YAP" HorizontalAlignment="Left" Height="62" Margin="63,53,0,0" VerticalAlignment="Top" Width="158" Click="btnGirisYap_Click"/>
+        <Button x:Name="btnYoneticiGiris" Content="YÖNETİCİ PANELİ" HorizontalAlignment="Left" Height="62" Margin="250,53,0,0" VerticalAlignment="Top" Width="158" Click="btnYoneticiGiris_Click"/>
+
+    </Grid>
+</Window>

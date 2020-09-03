@@ -1,0 +1,11 @@
+﻿  Roadline.cpp
+  main.cpp
+c:\users\serdar\desktop\trade\sadeceon\user112233\kaynak-kod\project\main.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\serdar\desktop\trade\sadeceon\user112233\kaynak-kod\project\main.cpp(77): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\serdar\desktop\trade\sadeceon\user112233\kaynak-kod\project\main.cpp(140): warning C4018: '<': signed/unsigned mismatch
+  Highway.cpp
+  Car.cpp
+  Block.cpp
+  Generating Code...
+  Project1.vcxproj -> c:\users\serdar\documents\visual studio 2017\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> c:\users\serdar\documents\visual studio 2017\Projects\Project1\Debug\Project1.pdb (Partial PDB)

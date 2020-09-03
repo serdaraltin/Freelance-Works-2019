@@ -1,0 +1,27 @@
+C:\Users\Main\Documents\Visual Studio 2017\Projects\VeriTabanıproje\VeriTabanıproje\bin\Debug\VeriTabanıproje.exe.config
+C:\Users\Main\Documents\Visual Studio 2017\Projects\VeriTabanıproje\VeriTabanıproje\bin\Debug\VeriTabanıproje.exe
+C:\Users\Main\Documents\Visual Studio 2017\Projects\VeriTabanıproje\VeriTabanıproje\bin\Debug\VeriTabanıproje.pdb
+C:\Users\Main\Documents\Visual Studio 2017\Projects\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.csprojResolveAssemblyReference.cache
+C:\Users\Main\Documents\Visual Studio 2017\Projects\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.Form_Login.resources
+C:\Users\Main\Documents\Visual Studio 2017\Projects\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.Properties.Resources.resources
+C:\Users\Main\Documents\Visual Studio 2017\Projects\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.csproj.GenerateResource.Cache
+C:\Users\Main\Documents\Visual Studio 2017\Projects\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.exe
+C:\Users\Main\Documents\Visual Studio 2017\Projects\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.pdb
+C:\Users\Main\Documents\Visual Studio 2017\Projects\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.Form_AdminLogin.resources
+C:\Users\Main\Documents\Visual Studio 2017\Projects\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.Form_CompanyRegistration.resources
+C:\Users\Main\Documents\Visual Studio 2017\Projects\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.Form_ManagementPanel.resources
+C:\Users\Main\Documents\Visual Studio 2017\Projects\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.Form_CustomerPanel.resources
+C:\Users\Main\Documents\Visual Studio 2017\Projects\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.Form_ServerConnect.resources
+C:\Users\MAIN\Desktop\ugurderin\ornek_kod\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.pdb
+C:\Users\MAIN\Desktop\ugurderin\ornek_kod\VeriTabanıproje\VeriTabanıproje\bin\Debug\VeriTabanıproje.exe
+C:\Users\MAIN\Desktop\ugurderin\ornek_kod\VeriTabanıproje\VeriTabanıproje\bin\Debug\VeriTabanıproje.pdb
+C:\Users\MAIN\Desktop\ugurderin\ornek_kod\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.csprojResolveAssemblyReference.cache
+C:\Users\MAIN\Desktop\ugurderin\ornek_kod\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.Form_AdminLogin.resources
+C:\Users\MAIN\Desktop\ugurderin\ornek_kod\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.Form_CompanyRegistration.resources
+C:\Users\MAIN\Desktop\ugurderin\ornek_kod\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.Form_CustomerPanel.resources
+C:\Users\MAIN\Desktop\ugurderin\ornek_kod\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.Form_Login.resources
+C:\Users\MAIN\Desktop\ugurderin\ornek_kod\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.Form_ManagementPanel.resources
+C:\Users\MAIN\Desktop\ugurderin\ornek_kod\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.Form_ServerConnect.resources
+C:\Users\MAIN\Desktop\ugurderin\ornek_kod\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.Properties.Resources.resources
+C:\Users\MAIN\Desktop\ugurderin\ornek_kod\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.csproj.GenerateResource.Cache
+C:\Users\MAIN\Desktop\ugurderin\ornek_kod\VeriTabanıproje\VeriTabanıproje\obj\Debug\VeriTabanıproje.exe

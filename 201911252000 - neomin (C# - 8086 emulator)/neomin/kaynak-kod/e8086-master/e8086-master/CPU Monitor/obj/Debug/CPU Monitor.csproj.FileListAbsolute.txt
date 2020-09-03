@@ -1,0 +1,12 @@
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\CPU Monitor\bin\Debug\CPU Monitor.exe.config
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\CPU Monitor\bin\Debug\Chipset\pcxtbios.bin
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\CPU Monitor\bin\Debug\CPU Monitor.exe
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\CPU Monitor\bin\Debug\CPU Monitor.pdb
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\CPU Monitor\bin\Debug\KDS.e8086.dll
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\CPU Monitor\bin\Debug\KDS.e8086.pdb
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\CPU Monitor\obj\Debug\CPU Monitor.csprojResolveAssemblyReference.cache
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\CPU Monitor\obj\Debug\CPU_Monitor.MainForm.resources
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\CPU Monitor\obj\Debug\CPU_Monitor.Properties.Resources.resources
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\CPU Monitor\obj\Debug\CPU Monitor.csproj.GenerateResource.Cache
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\CPU Monitor\obj\Debug\CPU Monitor.exe
+C:\Users\Serdar\Desktop\e8086-master\e8086-master\CPU Monitor\obj\Debug\CPU Monitor.pdb

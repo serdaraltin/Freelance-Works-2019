@@ -1,0 +1,11 @@
+Kuponunuz : 
+
+19 	32 	38 	39 	42 	
+5 	28 	33 	36 	38 	42 	
+
+Kazanan numaralar : 
+
+2 	5 	12 	15 	17 	48 	
+
+A > kuponunda dogru adet : 0
+B > kuponunda dogru adet : 1

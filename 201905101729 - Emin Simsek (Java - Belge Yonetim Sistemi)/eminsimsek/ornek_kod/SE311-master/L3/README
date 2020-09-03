@@ -1,0 +1,14 @@
+Joseph Mulray
+SE311
+Lab 3 A Simple File System
+February 27 2018
+
+
+
+src/: Holds all source code for this lab
+UML: L3UML.png
+
+
+Main driver in Client class. Included makefile can just run make to complile and run. 
+Also included copy of README in src folder
+

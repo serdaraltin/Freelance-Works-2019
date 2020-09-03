@@ -1,0 +1,7 @@
+en az 5 kare dahil edilmelidir.
+Sadece en az bir soyut sýnýf ve bir arayüz içermelidir.
+En az 4 alan içeren bir kayýt verisi kullanýcý tarafýndan girilebilir ve kayýt dosyasýna kaydedilebilir.
+Bu kayýt en az bir sayýsal alan içermeli ve toplam, ortalama, sayma iþlemi kullanýlmalýdýr.
+Tüm kayýtlý kayýtlarý listeleme ve özel bir kayýt arama sunulmalýdýr.
+Record gerekli iþlemleri ekleme, güncelleme ve silme.
+Ýstisna iþlemleri uygulanarak dosya iþlemleri güvenli bir þekilde yapýlmalýdýr.

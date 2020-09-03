@@ -1,0 +1,20 @@
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\bin\Debug\Apartman_Yonetim.exe.config
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\bin\Debug\Apartman_Yonetim.exe
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\bin\Debug\Apartman_Yonetim.pdb
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\obj\Debug\Apartman_Yonetim.csprojResolveAssemblyReference.cache
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\obj\Debug\Apartman_Yonetim.Properties.Resources.resources
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\obj\Debug\Apartman_Yonetim.csproj.GenerateResource.Cache
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\obj\Debug\Apartman_Yonetim.exe
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\obj\Debug\Apartman_Yonetim.pdb
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\bin\Debug\vt1.accdb
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\bin\Debug\vt1.mdb
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\obj\Debug\Apartman_Yonetim.Anasayfa.resources
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\obj\Debug\Apartman_Yonetim.Daire1.resources
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\obj\Debug\Apartman_Yonetim.KararDefteri.resources
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\obj\Debug\Apartman_Yonetim.Daireler.resources
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\obj\Debug\Apartman_Yonetim.Gelir.resources
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\obj\Debug\Apartman_Yonetim.Gider.resources
+C:\Users\yazar\Desktop\Apartman Yönetim Sistemi\Proje\Apartman_Yonetim\Apartman_Yonetim\obj\Debug\Apartman_Yonetim.Kasa.resources
+C:\Users\MAIN\Desktop\Apartman_Yonetim\Apartman_Yonetim\Apartman_Yonetim\bin\Debug\Apartman_Yonetim.exe.config
+C:\Users\MAIN\Desktop\Apartman_Yonetim\Apartman_Yonetim\Apartman_Yonetim\obj\Debug\Apartman_Yonetim.exe
+C:\Users\MAIN\Desktop\Apartman_Yonetim\Apartman_Yonetim\Apartman_Yonetim\obj\Debug\Apartman_Yonetim.pdb

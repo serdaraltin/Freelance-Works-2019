@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:h="http://java.sun.com/jsf/html" xmlns:f="http://xmlns.jcp.org/jsf/core">
+<h:head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1" http-equiv="X-UA-Conpatible" />
+    <h:outputStylesheet library="css" name="bootstrap.min.css" />
+    <title>JSF JPA Crud Example</title>
+    <style type="text/css">
+        .btnWidth {
+            width: 80px;
+        }     
+        .col-sm-updated {        	
+    		padding-top: 7px;    		
+        }
+         .col-sm-updated a {
+         	margin-left: 30px;
+        	text-decoration: none !important;
+        }
+        .col-sm-27 {
+        	width: 27% !important	;
+        }
+    </style>
+</h:head>
+<h:body>
+	<center><h2><h:outputText value="Create School Record"/></h2></center>
+    <h:form id="schoolBeanForm" styleClass="form-horizontal">        
+      	<div class="form-group">
+            <h:outputLabel for="id" styleClass="control-label col-sm-4">Id:</h:outputLabel>
+            <div class="col-sm-4"><h:outputText value="Auto Selected By The System :)" styleClass="text text-success" /></div>
+        </div>
+        <div class="form-group">
+            <h:outputLabel for="name" styleClass="control-label col-sm-4">Name:</h:outputLabel>
+            <div class="col-sm-4">
+                <h:inputText id="school-name" value="#{schoolBean.name}" styleClass="form-control" required="true" requiredMessage="School Name Cannot Be Blank" />
+            </div>
+            <h:message for="school-name" styleClass="text text-danger" />
+        </div>        
+        <div class="form-group">
+            <div class="col-sm-2 col-sm-27" />
+            <div class="col-sm-4">
+                <div class="col-sm-2"><h:commandButton value="Save" action="#{schoolBean.addNewSchool(schoolBean)}" styleClass="btn btn-success btnWidth" /></div>
+                <div class="col-sm-1" />
+                <div class="col-sm-updated"><h:outputLink value="schoolsList.xhtml">View School Record List</h:outputLink></div>
+            </div>
+        </div>
+    </h:form>
+</h:body>
+</html>

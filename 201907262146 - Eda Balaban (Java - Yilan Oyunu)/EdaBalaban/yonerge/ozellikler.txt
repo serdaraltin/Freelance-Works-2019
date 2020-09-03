@@ -1,0 +1,3 @@
+Klasik yılan oyunundan farklı olarak, yem de hareket edecek.
+Her zaman yönünü rastgele belirleyecek ve 1000 ms’de 10 birim ileri gidecek.
+Yılan kendisine veya duvarlara (ekranın kenarlarına) çarptığı zaman oyun sonlanacak ve başka bir pencerede yediği yem sayısı ve oynadığı süre (saniye cinsinden) yazacak.

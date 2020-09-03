@@ -1,0 +1,15 @@
+Tablolar oluşturulup ilişkilendirme yapıldıktan sonra
+10 join
+10 stored procedure
+10 trigger örneği istiyoruz
+
+marka 1
+kategori 1
+urun 1
+stok 1
+musteri 1
+kullanici 1
+yonetici 1
+siparis 5
+sepet 5
+

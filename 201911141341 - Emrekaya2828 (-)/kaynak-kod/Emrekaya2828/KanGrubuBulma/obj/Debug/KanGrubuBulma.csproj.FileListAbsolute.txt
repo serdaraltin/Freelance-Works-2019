@@ -1,0 +1,5 @@
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828\KanGrubuBulma\bin\Debug\KanGrubuBulma.exe
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828\KanGrubuBulma\bin\Debug\KanGrubuBulma.pdb
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828\KanGrubuBulma\obj\Debug\KanGrubuBulma.csprojResolveAssemblyReference.cache
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828\KanGrubuBulma\obj\Debug\KanGrubuBulma.exe
+C:\Users\Serdar\Desktop\Sadeceon\Emrekaya2828\kaynak-kod\Emrekaya2828\KanGrubuBulma\obj\Debug\KanGrubuBulma.pdb

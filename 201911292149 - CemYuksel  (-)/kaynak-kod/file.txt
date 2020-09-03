@@ -1,0 +1,28 @@
+Kullanılan Ide : Netbeans 8.2 Java SE
+İndirme Adresi : https://netbeans.org/downloads/8.2/
+
+Kullanılan Kütüphaneler ->
+Server : Apache Tomcat 8.0.27.0
+Database Manager	: derby (derby.jar)
+javax.inject-1.jar
+cdi-api-2.0.SP1.jar
+javax.el-api-3.0.0.jar
+javax.interceptor-api-1.2.jar
+JDK 1.8
+
+Test->
+Source Packages>test>run.javax
+Controller->
+Source Packages>controller>WriteController.javax
+Data Access Object->
+Source Packages>dao>WriteDAO.javax
+Entity->
+Source Packages>entity>Write.java
+Util->
+Source Packages>util>ConnectionDB.java
+Source Packages>util->CrateDB.java
+
+Web Page->
+Web Pages>index.xhtml
+Css->
+Wep Pages>resources>css>bootstrap.css

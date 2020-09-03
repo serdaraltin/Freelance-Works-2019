@@ -1,0 +1,39 @@
+Tekrardan Merhaba.
+Öncelikle ödeviniz içerisinde kullanılması gereken yapılar sırasıyla;
+- Standart
+ -- Variable
+ -- Scanner
+ -- Sysout
+ -- Loops(for,foreach,while,do-while,break-continue)
+ -- Opsiyonel -> Switch-Case
+ -- Paremeters Function
+ -- String
+- OOP(Object Oriented Programming)
+ -- Encapsulation
+ -- Constructors
+ -- Referances
+ -- Array, ArrayList, Matris
+ -- Ovverride Function
+ -- Method Overloading
+ -- Protected Variable
+ -- Static Function
+- Polymorphism
+- Abstract Class
+- Inheritance(OOP Inheritance Concept)
+- Java 8 -> Lambda
+- Reporting
+
+→ <student id.zip> 
+	→ src.zip <DIR> 
+
+dır.
+Bunlara ek olarak programın yapısı gereği bazı spesifik kullanımlarda olacaktır.
+Özellikle belirtilen Kalıtım,Çok biçimlilik,Kapsülleme gibi yapıların bulunduğu
+Nesne Yönelimli Programlama yapılacaktır.
+Tüm bu yapılar Java Programlama dili kullanılarak inşaa edilecek.
+Ayrıca verilen girdilere göre çıktılar üretilecek.
+
+Tüm bu bilgilerin doğrultusunda bu çapta bir ödev(proje) için öncelikle
+birkaç yapı göstermeliyim.
+Bu yapıları https://notepad.pw/gjzmz1fz buradan inceleyebilirsiniz.
+Lütfen bağlantıyı inceleyiniz. Teşekkürler.

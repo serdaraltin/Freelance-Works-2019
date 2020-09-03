@@ -1,0 +1,3 @@
+3. Her veri kümesi için veri girişi yapılacak FORMLAR ve bir ANA FORM oluşturulacak. 
+
+4. En az 1 hazır macro ve 2 tane kullanıcı tanımlı macro kullanılacak 

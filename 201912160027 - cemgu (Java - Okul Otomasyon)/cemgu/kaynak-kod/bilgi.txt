@@ -1,0 +1,2 @@
+ilk açılış için Run.java dosyasını çalıştırarak veritabanını oluşturun
+bu işlem 1 kereye mahsustur

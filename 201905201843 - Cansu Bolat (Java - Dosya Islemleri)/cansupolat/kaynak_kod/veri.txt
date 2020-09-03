@@ -1,0 +1,5 @@
+Silindi|Silindi|Silindi|Silindi|Silindi|
+Toplama|20|50|50|50|200|
+Ortalama|50|1|2|5|14|
+Cikarma|100|50|10|1|39|
+Toplama|5|5|34|5|49|

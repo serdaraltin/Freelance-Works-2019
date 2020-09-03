@@ -1,0 +1,7 @@
+1. İlk açılışta varsayılan görsel yüklenir.
+2. Başlangıçta çalıştırılması için "Başlangıçta Çalıştır" seçeneği aktif edilmelidir.
+3. Dosya bölümünden bir görsel seçildiğinde sabit olarak seçilen görsel yüklenir.
+4. Dizin bölümünden bir klasör seçildiğinde klasördeki görseller açılışta yüklenir.
+5. Dizin bölümünden "Rastgele" seçildiğinde klasördeki görseller rastgele seçilir.
+6. Dizin bölümünden "Sıralı"   seçildiğinde klasördeki görseller sırayla seçilir.
+7. Kontrol Menüsünü açmak içim "F" tuşuna basın.

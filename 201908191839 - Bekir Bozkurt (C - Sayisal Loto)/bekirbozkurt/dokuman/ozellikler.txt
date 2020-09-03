@@ -1,0 +1,2 @@
+
+7. belirlenen tüm kolon ve sayılar hem ekrana hem de dosyaya küçükten büyüğe doğru sıralı şekilde yazılmalıdır.

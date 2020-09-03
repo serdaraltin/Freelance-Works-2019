@@ -1,0 +1,8 @@
+#C programlama dilinde bir ödevim var.
+İki ayrı dosyada, biri sayılardan biri şehirlerden oluşmuş Hamilton turu yazdırmamız isteniyor.
+#Şu şekilde, sayılarda tur 1 den başlıyorsa turun sonunda 1e geri dönmeli.
+Arada kullanılan sayılar ise tekrar edilmemeli.
+Sayılar veya şehirler ekrandan girilecek.
+#Maximum adet belirlenebilir. Örneğin,
+1-4-6-3-2-7-9-5-1
+Ankara-Adana-istanbul-bolu-izmir-ankara

@@ -1,0 +1,47 @@
+-Veri eklenirken eksik bir bilgi olduğunda kutucuk yanında örneğin yaş bilgisi eklemeniz gerekiyor gibi validation olacak.
+-Anasayfada "search,edit,add,delete" butonları olup seçilene göre o sayfaya gidilsin.
+
+
+   <div class="container">
+
+            <f:view>
+                <h:form>
+                    <h:dataTable styleClass="table table-striped" value="#{NULL}" var="item">
+                        <h:column>
+                            <f:facet name="header">Id</f:facet>#{item.id}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Ad</f:facet>#{item.ad}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Soyad</f:facet>#{item.soyad}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Yas</f:facet>#{item.yas}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Milliyet</f:facet>#{item.milliyet}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Takim</f:facet>#{item.takim}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Mac Sayisi</f:facet>#{item.mac_sayi}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Gol Sayisi</f:facet>#{item.gol_sayi}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Asist Sayisi</f:facet>#{item.asist_sayi}
+                        </h:column>
+                        <h:column>
+                            <f:facet name="header">Sil</f:facet>
+                            <h:form>
+                                <h:commandButton value="Sil" styleClass="btn btn-danger" action="#{futbolcuController.Sil(item)}"></h:commandButton>
+                            </h:form>
+                        </h:column>
+                    </h:dataTable>
+                </h:form>
+            </f:view>
+        </div>
+

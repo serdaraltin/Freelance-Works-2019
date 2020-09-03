@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"  xmlns:h="http://java.sun.com/jsf/html"  xmlns:f="http://xmlns.jcp.org/jsf/core">
+<h:head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1" http-equiv="X-UA-Conpatible" />
+    <h:outputStylesheet library="css" name="bootstrap.min.css" />     
+    <title>JSF JPA Crud Example</title>
+    <style type="text/css">
+        .tableUpdated {
+        	width: 90% !important;
+        	margin: 17px 58px 0 !important;
+        }
+        .btnSpace {
+        	margin: 17px;
+        }     
+    </style>
+</h:head>
+<h:body>
+    <center><h2><h:outputText value="School Records"/></h2></center>
+    <h:form id="schoolForm">
+        <h:dataTable id="schoolTable" binding="#{table}" value="#{schoolBean.schoolListFromDb()}" var="school" styleClass="table table-striped table-bordered tableUpdated">
+            <h:column>
+                <f:facet name="header">Id</f:facet>
+                <h:outputText value="#{school.id}" />                
+            </h:column>
+            <h:column>
+                <f:facet name="header">School Name</f:facet>
+                <h:outputText value="#{school.name}" />
+            </h:column>
+            <h:column>
+                <f:facet name="header">Update</f:facet>
+                <h:commandButton action="#{schoolBean.editSchoolDetailsById()}" value="Update" styleClass="btn btn-primary">
+                	<f:param name="selectedSchoolId" value="#{school.id}" />
+                </h:commandButton>
+            </h:column>
+            <h:column>
+                <f:facet name="header">Delete</f:facet>
+                <h:commandButton action="#{schoolBean.deleteSchoolById(school.id)}" value="Delete" styleClass="btn btn-danger" />
+            </h:column>
+        </h:dataTable>
+        <center><h:commandButton action="newSchool.xhtml?faces-redirect=true" value="Add New School" styleClass="btn btn-success btnSpace" /></center>
+    </h:form>
+</h:body>
+</html>

@@ -1,0 +1,22 @@
+
+Processing C:\Users\Serdar\Desktop\Trade\Sadeceon\countess41\kaynak-kod\Sabri Gözdağ Sözlük.ci 15.12.2019 00:46:09
+Log file: C:\Users\Serdar\Desktop\Trade\Sadeceon\countess41\kaynak-kod\Sabri Gözdağ Sözlük.log 
+Generating Sources... 
+Compiling Gentee Sources... 
+Build setup file: C:\Users\Serdar\Desktop\setup.exe 
+Adding temporary file(s) to EXE 
+C:\Users\Serdar\AppData\Local\Temp\gentee01\turkish.lng 15.12.2019 00:46:09 3860  46.24%
+C:\Program Files (x86)\CreateInstall Free\res\logo\default - 1.bmp 5.11.2002 11:52:24 7308  52.55%
+C:\Program Files (x86)\CreateInstall Free\res\leftimg\install\install - 1.bmp 10.11.2002 11:56:02 20678  33.44%
+C:\Program Files (x86)\CreateInstall Free\res\leftimg\uninstall\uninstall - 1.bmp 10.11.2002 11:56:02 20678  28.19%
+Build setup file: C:\Users\Serdar\AppData\Local\Temp\gentee01\uninstall.exe 
+Adding uninstall file(s) to EXE 
+Getting list of files 
+Packing files... 
+================================ 
+C:\Users\Serdar\Desktop\Trade\Sadeceon\countess41\kaynak-kod\kaynak-kod\Sabri_Gozdag_Sozluk\bin\Debug\Sabri_Gozdag_Sozluk.exe 15.12.2019 00:45:47 1964544  16.33%
+C:\Users\Serdar\Desktop\Trade\Sadeceon\countess41\kaynak-kod\veritabani\script.sql 14.12.2019 20:37:52 20508  8.15%
+================================ 
+All files: 2 [ 1938KB => 315KB ] 
+File Size C:\Users\Serdar\Desktop\setup.exe: 428 KB 
+Finish Successful 15.12.2019 00:46:15

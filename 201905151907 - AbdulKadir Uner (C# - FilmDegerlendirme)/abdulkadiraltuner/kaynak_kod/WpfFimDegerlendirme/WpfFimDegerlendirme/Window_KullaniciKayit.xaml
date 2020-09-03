@@ -1,0 +1,31 @@
+﻿<Window x:Class="WpfFimDegerlendirme.Window_KullaniciKayit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfFimDegerlendirme"
+        mc:Ignorable="d"
+        Title="Kullanıcı Kayıt" Height="398" Width="350" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid>
+        <Label x:Name="label" HorizontalAlignment="Left" Height="25" Margin="39,47,0,0" VerticalAlignment="Top" Width="82" Content="Ad Soyad"/>
+        <TextBox x:Name="txtAdSoyad" HorizontalAlignment="Left" Height="23" Margin="126,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170"/>
+        <Label x:Name="label_Copy" HorizontalAlignment="Left" Height="25" Margin="39,75,0,0" VerticalAlignment="Top" Width="82" Content="Kullanıcı Adı"/>
+        <TextBox x:Name="txtKullaniciAdi" HorizontalAlignment="Left" Height="23" Margin="126,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170"/>
+        <Label x:Name="label_Copy1" HorizontalAlignment="Left" Height="25" Margin="39,103,0,0" VerticalAlignment="Top" Width="82" Content="Eposta Adresi"/>
+        <TextBox x:Name="txtEpostaAdresi" HorizontalAlignment="Left" Height="23" Margin="126,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170"/>
+        <Label x:Name="label_Copy2" HorizontalAlignment="Left" Height="25" Margin="39,131,0,0" VerticalAlignment="Top" Width="82" Content="Doğum Tarihi"/>
+        <DatePicker x:Name="dtDogumTarihi" HorizontalAlignment="Left" Margin="126,133,0,0" VerticalAlignment="Top" Width="170"/>
+        <Label x:Name="label_Copy3" HorizontalAlignment="Left" Height="25" Margin="39,160,0,0" VerticalAlignment="Top" Width="82" Content="Şifre"/>
+        <TextBox x:Name="txtSifre" HorizontalAlignment="Left" Height="23" Margin="126,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170"/>
+        <Label x:Name="label_Copy4" HorizontalAlignment="Left" Height="25" Margin="39,188,0,0" VerticalAlignment="Top" Width="82" Content="Şifre Tekrar"/>
+        <TextBox x:Name="txtSifreTekrar" HorizontalAlignment="Left" Height="23" Margin="126,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170"/>
+        <Label x:Name="label_Copy5" HorizontalAlignment="Left" Height="25" Margin="39,216,0,0" VerticalAlignment="Top" Width="82" Content="Cinsiyet"/>
+        <ComboBox x:Name="cbCinsiyet" HorizontalAlignment="Left" Margin="126,218,0,0" VerticalAlignment="Top" Width="170" SelectedIndex="0">
+            <ComboBoxItem Content="Kadın"/>
+            <ComboBoxItem Content="Erkek"/>
+            <ComboBoxItem Content="Diğer"/>
+        </ComboBox>
+        <Button x:Name="btnKayitOl" Content="Kayıt Ol" HorizontalAlignment="Left" Height="31" Margin="126,257,0,0" VerticalAlignment="Top" Width="170" Click="btnKayitOl_Click"/>
+
+    </Grid>
+</Window>

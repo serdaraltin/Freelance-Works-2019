@@ -1,0 +1,1 @@
+Sadece en az bir soyut sýnýf ve bir arayüz içermelidir.

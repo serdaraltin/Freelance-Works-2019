@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hayvanlar", "Hayvanlar\Hayvanlar.csproj", "{51CD7A5B-3BA9-4FF6-887B-FC841125B29D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mulk", "Mulk\Mulk.csproj", "{9979B5C3-0C69-4473-99FC-80EAB6F88A5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51CD7A5B-3BA9-4FF6-887B-FC841125B29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CD7A5B-3BA9-4FF6-887B-FC841125B29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CD7A5B-3BA9-4FF6-887B-FC841125B29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CD7A5B-3BA9-4FF6-887B-FC841125B29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9979B5C3-0C69-4473-99FC-80EAB6F88A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9979B5C3-0C69-4473-99FC-80EAB6F88A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9979B5C3-0C69-4473-99FC-80EAB6F88A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9979B5C3-0C69-4473-99FC-80EAB6F88A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

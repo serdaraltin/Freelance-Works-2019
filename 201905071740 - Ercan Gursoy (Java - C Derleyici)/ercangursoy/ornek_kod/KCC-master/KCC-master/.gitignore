@@ -1,0 +1,7 @@
+/bin/
+.idea/
+*.iml
+/out/
+*.exe
+*.s
+classes/
