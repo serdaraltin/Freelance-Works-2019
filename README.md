@@ -1,1 +1,1 @@
-# Freelance-Works - 2019
+Mecburiyet, diplomasız adam işe almıyorlar ;(
